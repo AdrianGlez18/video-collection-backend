@@ -1,0 +1,14 @@
+# Modules
+node_modules
+package-lock.json
+
+# Env
+.env
+
+# Public files
+dist
+build
+
+# Testing
+test 
+.nyc_output
